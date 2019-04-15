@@ -18,15 +18,11 @@ Some of the topics in styled components that are covered in this example:
 
 - createGlobalStyle
 
-  ```javascript
-  Please refer /src/GlobalStyles.js
-  ```
+  *Please refer [/src/GlobalStyles.js](https://github.com/elangobharathi/wesbos-css-grid-styled-components/blob/master/src/GlobalStyles.js#L8)*
 
 - ThemeProvider
 
-  ```javascript
-  Please refer /src/GlobalStyles.js and /src/App.js
-  ```
+  *Please refer [/src/GlobalStyles.js](https://github.com/elangobharathi/wesbos-css-grid-styled-components/blob/master/src/GlobalStyles.js#L3) and [/src/App.js](https://github.com/elangobharathi/wesbos-css-grid-styled-components/blob/master/src/App.js#L11)*
 
 - css helper function
 
@@ -41,6 +37,5 @@ Some of the topics in styled components that are covered in this example:
             max-height: 0;
             transform: rotateX(90deg);
           `}
-
-  Please refer src/components/MenuList.js
   ```
+    *Please refer [/src/components/MenuList.js](https://github.com/elangobharathi/wesbos-css-grid-styled-components/blob/master/src/components/MenuList.js#L30)*
