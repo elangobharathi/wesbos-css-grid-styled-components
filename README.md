@@ -2,7 +2,7 @@
 
 #### INTRODUCTION
 
-One of the best tutorials to learn CSS Grid is [Wes Bos' CSS Grid course](https://cssgrid.io/). I wanted to experiment one of [his code samples ](https://github.com/wesbos/css-grid/tree/master/24%20-%20Responisve%20Website) using [Styled Components](https://www.styled-components.com/). Here I am with his code converted for styled components.
+One of the best tutorials to learn CSS Grid is [Wes Bos' CSS Grid course](https://cssgrid.io/). I wanted to experiment one of [his code samples ](https://github.com/wesbos/css-grid/tree/master/24%20-%20Responisve%20Website) using [Styled Components](https://www.styled-components.com/). Here I am with his code converted for styled components. For live code editing, please checkout [this codesandbox](https://codesandbox.io/s/github/elangobharathi/wesbos-css-grid-styled-components).
 
 #### HOW TO RUN
 
